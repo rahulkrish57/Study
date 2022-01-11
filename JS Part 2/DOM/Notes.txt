@@ -1,0 +1,18 @@
+Advantages of using script tag at end of body
+    1. We can access the whole doument
+    2. Speed up the performance
+
+
+ Why DOM used? 
+    1. Dynamic access
+    2. CRUD
+        - Create
+        - Read
+        - Update
+        - Delete
+
+What can be create using DOM?
+    1. Element
+    2. Attributes
+    3. Styles
+    4. Events
