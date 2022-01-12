@@ -19,14 +19,14 @@
         //console.log(event);
         console.log("Working");
     }
-/*
+
 // Object Model Eventhandler
 const addButton = document.getElementById("addBtn");
 addButton.innerText = "Add";
 addButton.onclick = myFunc;
 const inputBox = document.getElementById("inputBlock");
 inputBox.onmouseover = myFunc;
-*/
+
 // built-in Event
 function buttonClick1() {
     console.log("ButtonClick1 function working");
