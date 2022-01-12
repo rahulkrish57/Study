@@ -1,0 +1,37 @@
+Events
+    Keyboards
+        1. Keydown
+        2. Keyup
+        3. Keypress
+    Mouse
+        1. mouse move
+        2. click
+        3. double click
+        4. mouse over
+        5. mouse leave
+        6. wheel
+    Global
+        1. scroll
+        2. resize -> window -> canvas
+
+        <-- Inline Eventhandlers -->
+            - Advantages
+                1. Easy
+                2. Slightly Fast
+            - Disadvantages
+                1. Unmanageable
+                2. Scope
+        <-- Object Model Eventhandlers -->
+            - Advantages
+                1. manageable
+                2. Scope
+                3. Object
+            - Disadvantages
+                1. Cannot run two handlers
+        <-- Built-in Methods -->
+            - Advantages
+                1. Can run more than one handlers
+                2. Built-in methods..
+            - Disadvantages
+                1. not supported for old browsers
+            
